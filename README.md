@@ -1,1 +1,1 @@
-# LSTM-on-mnist-data-set
+# LSTM(RNN)-on-mnist-data-set
